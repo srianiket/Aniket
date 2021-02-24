@@ -1,0 +1,14 @@
+2021-02-04 12:55:30,701 [main] INFO Get Logger - This is information message
+2021-02-04 12:55:30,725 [main] WARN Get Logger - This is warning
+2021-02-04 12:55:30,725 [main] ERROR Get Logger - This is error
+2021-02-04 12:55:30,728 [main] ERROR Get Logger - This is fatal
+2021-02-04 12:57:15,587 [main] INFO Get Logger - This is information message
+2021-02-04 12:57:15,590 [main] WARN Get Logger - This is warning
+2021-02-04 12:57:15,592 [main] ERROR Get Logger - This is error
+2021-02-04 12:57:15,592 [main] ERROR Get Logger - This is fatal
+2021-02-04 13:00:47,294 [main] INFO Get Logger - This is information message
+2021-02-04 13:01:38,194 [main] INFO Get Logger - This is information message
+2021-02-04 13:05:25,260 [main] INFO Get Logger - This is information message
+2021-02-04 13:08:37,437 [main] INFO Get Logger - This is information message
+2021-02-04 13:15:21,710 [main] INFO Get Logger - This is information message
+2021-02-04 13:17:00,482 [main] INFO Get Logger - This is information message
